@@ -11,7 +11,7 @@ a prueba tus nuevas habilidades :rainbow:.
 ## Instructoras :busts_in_silhouette:
 
 - Patricia Gutiérrez :frog:
-- América Torres :clover:
+- América Torres :three_leaf_lover:
 
 ### Recursos y referencias :blue_book:
 
