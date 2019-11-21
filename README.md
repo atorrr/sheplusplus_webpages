@@ -17,6 +17,7 @@ a prueba tus nuevas habilidades :rainbow:.
 
 - [Plantillas](https://startbootstrap.com/)
 - [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+- [Guía de GitHub pages](https://guides.github.com/features/pages/)
 - [Emojis!](https://gist.github.com/rxaviers/7360908)
 - [HTML](https://devdocs.io/html/)
 - [Colores](https://www.color-hex.com/)
