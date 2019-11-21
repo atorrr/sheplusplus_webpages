@@ -19,5 +19,6 @@ a prueba tus nuevas habilidades :rainbow:.
 - [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 - [Emojis!](https://gist.github.com/rxaviers/7360908)
 - [HTML](https://devdocs.io/html/)
+- [Colores](https://www.color-hex.com/)
 
 ### Taller diseñado para el evento She++, León, Gto., 23 de noviembre de 2019
