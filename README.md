@@ -22,5 +22,6 @@ a prueba tus nuevas habilidades :rainbow:.
 - [HTML](https://devdocs.io/html/)
 - [Colores](https://www.color-hex.com/)
 - [Jekyll](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
+- [Startbootstrap](https://startbootstrap.com/)
 
 ### Taller diseñado para el evento She++, León, Gto., 23 de noviembre de 2019
